@@ -17,6 +17,8 @@ This created the 5 filters used to extract information from the table set.
 An important line of code that is the key to the filter being usable is shown below. Without this you will have the structure and table of data, but it will not register or save the filters you want to execute to the table. In other words, nothing will appear in the table. 
 ![image](https://user-images.githubusercontent.com/105329532/191850957-051a0058-a7f8-4078-8bff-475268af2fa9.png)
 
+This is the link to the website : http://127.0.0.1:5500/UFOs/index.html
+
 ---
 ## Summary:
 The drawback of this webpage is that it does not provide a range or suggested items to input so you could reppeatedly input a date that is not in the dataset.

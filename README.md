@@ -24,5 +24,5 @@ This is the link to the website : http://127.0.0.1:5500/UFOs/index.html
 The drawback of this webpage is that it does not provide a range or suggested items to input so you could reppeatedly input a date that is not in the dataset.
 * I would reccomend still allowing item to populate even if it is not an exact match. For example if I entered the 1/1/2022 nothing would populate, but it would be beneficial if the closest dat to that record did come up. 
 #### Room for Improvement...
-* It would reduce the time it takes to search and gie you an idea of what the dataset provides rather than presenting nothing which I think is helpful as a web user with no knowledge on the dataset used for this. 
+* It would reduce the time it takes to search and give you an idea of what the dataset provides rather than presenting nothing which I think is helpful as a web user with no knowledge on the dataset used for this. 
 * I also think maybe providing a message that what you have enetered is out of the dataset bounds would be beneficial so that it is more user friendly in understanding the datasets capabillities. 
